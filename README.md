@@ -7,7 +7,7 @@ This is my personal configuration of dwm.
 
 `dev` branch is used for configuration (make dwm from this branch)
 
-`master` branch represents `upstream` and reflects git://git.suckless.org/dwm
+`master` branch represents `upstream` and reflects [git.suckless.org/dwm](git.suckless.org/dwm)
 
 ## How to update?
 
