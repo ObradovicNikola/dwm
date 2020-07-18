@@ -9,7 +9,7 @@ This is my personal configuration of dwm.
 
 `master` branch represents `upstream` and reflects [git.suckless.org/dwm](git.suckless.org/dwm)
 
-## How to update?
+## Updating
 
 `git checkout master`
 
