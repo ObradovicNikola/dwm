@@ -3,9 +3,9 @@
 ## dwm is an extremely fast, small, and dynamic window manager for X.
 
 
-This is my personal configuration of dwm.
+This is my personal customization of dwm.
 
-`dev` branch is used for configuration (make dwm from this branch)
+`dev` branch is used for customization (make dwm from this branch)
 
 `master` branch represents `upstream` and reflects [git.suckless.org/dwm](git.suckless.org/dwm)
 
@@ -78,3 +78,5 @@ Configuration
 -------------
 The configuration of dwm is done by creating a custom config.h
 and (re)compiling the source code.
+
+# Patches
