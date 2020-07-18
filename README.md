@@ -4,15 +4,19 @@
 
 
 This is my personal configuration of dwm.
+
 `dev` branch is used for configuration (make dwm from this branch)
+
 `master` branch represents `upstream` and reflects git://git.suckless.org/dwm
 
 ## How to update?
 
 `git checkout master`
+
 `git pull`
 
 `git checkout dev`
+
 `git rebase --preserve-merges master`
 
 The `--preserve-merges` option ensures that you don't have to resolve conflicts
@@ -23,6 +27,7 @@ In case there are merge conflicts anyway, resolve them
 and let the rebase continue.
 
 `git add resolved_file.ext`
+
 `git rebase --continue`
 
 If you want to give up, you can always abort the rebase
