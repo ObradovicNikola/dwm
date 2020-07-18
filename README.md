@@ -1,6 +1,6 @@
-#dwm - dynamic window manager
+# dwm - dynamic window manager
 ============================
-##dwm is an extremely fast, small, and dynamic window manager for X.
+## dwm is an extremely fast, small, and dynamic window manager for X.
 
 
 This is my personal configuration of dwm.
@@ -13,7 +13,7 @@ This is my personal configuration of dwm.
 
 `git checkout master`
 
-`git pull`
+`git pull upstream master`
 
 `git checkout dev`
 
