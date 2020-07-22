@@ -449,7 +449,7 @@ buttonpress(XEvent *e)
 		} else if (ev->x < x + blw)
 			click = ClkLtSymbol;
 		else
-			click = ClkStatusText
+			click = ClkStatusText;
 	} else if ((c = wintoclient(ev->window))) {
 		focus(c);
 		restack(selmon);
@@ -703,8 +703,6 @@ void
 drawbar(Monitor *m)
 {
 	int x, w, tw = 0;
-	int boxs = drw->fonts->h / 9;
-	int boxw = drw->fonts->h / 6 + 2;
 	unsigned int i, occ = 0, urg = 0;
 	Client *c;
 
