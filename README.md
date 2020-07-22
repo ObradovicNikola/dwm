@@ -82,3 +82,4 @@ and (re)compiling the source code.
 ## Patches
 
 - [restartsig](https://dwm.suckless.org/patches/restartsig/)
+- [hide vacant tags](https://dwm.suckless.org/patches/hide_vacant_tags/)
