@@ -85,3 +85,4 @@ and (re)compiling the source code.
 - [hide vacant tags](https://dwm.suckless.org/patches/hide_vacant_tags/)
 - [notitle](https://dwm.suckless.org/patches/notitle/)
 - [pertag](https://dwm.suckless.org/patches/pertag/)
+- [noborder](https://dwm.suckless.org/patches/noborder/)
