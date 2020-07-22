@@ -86,3 +86,7 @@ and (re)compiling the source code.
 - [notitle](https://dwm.suckless.org/patches/notitle/)
 - [pertag](https://dwm.suckless.org/patches/pertag/)
 - [noborder](https://dwm.suckless.org/patches/noborder/)
+
+### Patches to consider
+
+- [urgentborder](https://dwm.suckless.org/patches/urgentborder/)
