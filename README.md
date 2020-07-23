@@ -90,10 +90,10 @@ and (re)compiling the source code.
 - [movestack](https://dwm.suckless.org/patches/movestack/)
 - [center](https://dwm.suckless.org/patches/center/)
 - [fakefullscreen](https://dwm.suckless.org/patches/fakefullscreen/)
+- [urgentborder](https://dwm.suckless.org/patches/urgentborder/)
 
 ### Patches to consider
 
-- [urgentborder](https://dwm.suckless.org/patches/urgentborder/)
 - [actuallfullscreen](https://dwm.suckless.org/patches/actualfullscreen/) 
     * `note: doesn't work with fakefullscreen`
 - [ewmhtags](https://dwm.suckless.org/patches/ewmhtags/)
