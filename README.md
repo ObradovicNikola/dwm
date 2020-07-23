@@ -88,6 +88,7 @@ and (re)compiling the source code.
 - [noborder](https://dwm.suckless.org/patches/noborder/)
 - [fibonacci](https://dwm.suckless.org/patches/fibonacci/)
 - [movestack](https://dwm.suckless.org/patches/movestack/)
+- [center](https://dwm.suckless.org/patches/center/)
 
 ### Patches to consider
 
