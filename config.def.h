@@ -104,6 +104,7 @@ static Key keys[] = {
 	TAGKEYS(                        XK_9,                      8)
 	{ MODKEY|ControlMask|ShiftMask, XK_q,      quit,           {0} }, // quit sig
 	{ MODKEY|ShiftMask,							XK_q,      quit,           {1} }, // restart sig
+	{ MODKEY,                       XK_a,      spawn,          SHCMD("xterm -e pulsemixer") },
 };
 
 /* button definitions */
