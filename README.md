@@ -96,3 +96,4 @@ and (re)compiling the source code.
 - [urgentborder](https://dwm.suckless.org/patches/urgentborder/)
 - [actuallfullscreen](https://dwm.suckless.org/patches/actualfullscreen/) 
     * `note: doesn't work with fakefullscreen`
+- [ewmhtags](https://dwm.suckless.org/patches/ewmhtags/)
