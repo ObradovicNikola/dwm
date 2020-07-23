@@ -89,6 +89,7 @@ and (re)compiling the source code.
 - [fibonacci](https://dwm.suckless.org/patches/fibonacci/)
 - [movestack](https://dwm.suckless.org/patches/movestack/)
 - [center](https://dwm.suckless.org/patches/center/)
+- [fakefullscreen](https://dwm.suckless.org/patches/fakefullscreen/)
 
 ### Patches to consider
 
