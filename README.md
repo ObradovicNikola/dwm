@@ -94,3 +94,5 @@ and (re)compiling the source code.
 ### Patches to consider
 
 - [urgentborder](https://dwm.suckless.org/patches/urgentborder/)
+- [actuallfullscreen](https://dwm.suckless.org/patches/actualfullscreen/) 
+    * `note: doesn't work with fakefullscreen`
