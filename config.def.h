@@ -6,7 +6,7 @@ static const unsigned int snap      = 32;       /* snap pixel */
 static const int showbar            = 1;        /* 0 means no bar */
 static const int topbar             = 1;        /* 0 means bottom bar */
 static const char *fonts[]          = { "FiraCode:size=12", "Font Awesome 5 Free", "Font Awesome 5 Brands", "JoyPixels:pixelsize=10:antialias=true:autohint=true"};
-static const char dmenufont[]       = { "FiraCode:size=12, JoyPixels:pixelsize=10:antialias=true:autohint=true"};
+static const char dmenufont[]       = "FiraCode:size=12";
 static const char col_darkest[]     = "#11141b";
 static const char col_darker[]      = "#2E3440";
 static const char col_dark[]        = "#434C5E";
