@@ -87,6 +87,7 @@ and (re)compiling the source code.
 - [pertag](https://dwm.suckless.org/patches/pertag/)
 - [noborder](https://dwm.suckless.org/patches/noborder/)
 - [fibonacci](https://dwm.suckless.org/patches/fibonacci/)
+- [movestack](https://dwm.suckless.org/patches/movestack/)
 
 ### Patches to consider
 
